@@ -1,0 +1,48 @@
+.profile-image {
+    vertical-align: middle;
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+border: none;
+border-radius: 6px;}
+  .name{
+    color: darkorange;
+    position: absolute;
+    top: 550px;
+    left: 25px;
+    margin-left: 350px;
+    font-size: 37px;
+  }
+ .p1 {
+  margin-top: 0;  
+  font-family: arial;
+    font-weight: 900;
+    margin-left: 20px;
+    width: 80%;
+   color: rgb(236, 236, 236);
+   line-height: 30px;
+   font-size: 25px;
+ }
+.laverdad-image{
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 100%;
+    width: 100%;
+}
+
+body {background-color:rgb(77, 76, 76);
+  
+
+}
+
+.Pageko {
+    margin-top: 105px;
+    font-size: 70px;
+    text-decoration: none;
+    color: white;
+    margin-left: 35px;
+  
+    text-align: left;
+  }
